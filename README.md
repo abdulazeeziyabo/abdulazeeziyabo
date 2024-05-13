@@ -8,7 +8,7 @@ I'm a graduate AltSchool Africa School of Engineering-Frontend Developer class o
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I have a Master degree in Biochemistry and hoping to have a PhD some day .
-- 🌱 I’m a JavaScript and Reactjs Vuejs Developer. I'm currently learning React Native.
+- 🌱 I’m a JavaScript, Reactjs,  and Vuejs Developer. I'm currently learning React Native.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing bawallabolaji@gmail.com.
